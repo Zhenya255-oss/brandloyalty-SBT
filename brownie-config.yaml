@@ -1,0 +1,14 @@
+compiler:
+ solc:
+  remappings:
+    - '@openzeppelin=/Users/stoly/.brownie/packages/OpenZeppelin/openzeppelin-contracts@4.7.0/contracts'
+#dotenv: .env
+wallets:
+  from_key: ${PRIVATE_KEY}
+pinata:
+  api-keys: "a7d8d8511b97a0b7fcf7"
+  api-private: "f06222ec783373c7a57a8bba913102f4ed282ce66514a286cf6354f73cf6ba89"
+  access-token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiI4MjEyNTBmNS03MjY4LTQ1ODYtOTRmNy1kMGI1NTMzYjEwYTEiLCJlbWFpbCI6InN0b2x5YXJlbmtvdGVkQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaW5fcG9saWN5Ijp7InJlZ2lvbnMiOlt7ImlkIjoiRlJBMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfSx7ImlkIjoiTllDMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfV0sInZlcnNpb24iOjF9LCJtZmFfZW5hYmxlZCI6ZmFsc2UsInN0YXR1cyI6IkFDVElWRSJ9LCJhdXRoZW50aWNhdGlvblR5cGUiOiJzY29wZWRLZXkiLCJzY29wZWRLZXlLZXkiOiJhN2Q4ZDg1MTFiOTdhMGI3ZmNmNyIsInNjb3BlZEtleVNlY3JldCI6ImYwNjIyMmVjNzgzMzczYzdhNTdhOGJiYTkxMzEwMmY0ZWQyODJjZTY2NTE0YTI4NmNmNjM1NGY3M2NmNmJhODkiLCJpYXQiOjE2NzY1OTgyNDV9.3IvyzX7RiLSAyvVp7ZtSF6yCFKI-g0h9S1_yPWpsyh4"
+  base-json-folder: "C://Users/stoly/Desktop/Blockchains/loyalty/scripts/"
+  base-json-file: "C://Users/stoly/Desktop/Blockchains/loyalty/scripts/base.json"
+  base-json-uri: "https://gateway.pinata.cloud/ipfs/QmdiQyJQyjPJ7CHewbVEfqALDvdhkzTLs9bCAN6J1fEGVe"

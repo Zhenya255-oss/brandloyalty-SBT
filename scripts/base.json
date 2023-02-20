@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": 1
+    },
+    {
+      "trait_type": "Nike",
+      "value": 0
+    },
+    {
+      "trait_type": "Adidas",
+      "value": 0
+    },
+    {
+      "trait_type": "Reebok",
+      "value": 0
+    },
+    {
+      "trait_type": "Lululemon",
+      "value": 0
+    }
+  ],
+  "description": "This is a brand loyalty soulbound token",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdiQyJQyjPJ7CHewbVEfqALDvdhkzTLs9bCAN6J1fEGVe",
+  "name": "Soulbound Token"
+}
